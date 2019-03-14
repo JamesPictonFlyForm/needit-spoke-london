@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>false</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Flow to test custom action</description>
+        <internal_name>action_test_flow</internal_name>
+        <label_cache>[{"name":"657dafe9-cece-41b0-ac9e-34c25a2eda9d._","label":"1➛_","reference_display":"_","type":"string","base_type":"string"},{"name":"bcb201f9-c8e7-459e-9d0c-4202547c064d._","label":"1➛property_value","reference_display":"property_value","type":"string","base_type":"string"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Action Test Flow</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>true</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-13 16:59:27</sys_created_on>
+        <sys_id>0fb74527db443300f63eab7dca961959</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Action Test Flow</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_324829_needit_sp">7fb68923db443300f63eab7dca9619bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">7fb68923db443300f63eab7dca9619bd</sys_scope>
+        <sys_update_name>sys_hub_flow_0fb74527db443300f63eab7dca961959</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-14 10:39:53</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=0fb74527db443300f63eab7dca961959"/>
+    <sys_variable_value action="delete_multiple" query="document_key=0fb74527db443300f63eab7dca961959"/>
+</record_update>
